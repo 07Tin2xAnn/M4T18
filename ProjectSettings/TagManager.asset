@@ -3,9 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags:
   - obstacles
   - enemy
+=======
+  tags: []
+>>>>>>> effad7012390b8d9d335e5f72b838a278f696446
   layers:
   - Default
   - TransparentFX
@@ -15,7 +19,11 @@ TagManager:
   - UI
   - 
   - 
+<<<<<<< HEAD
   - enemy
+=======
+  - 
+>>>>>>> effad7012390b8d9d335e5f72b838a278f696446
   - 
   - 
   - 

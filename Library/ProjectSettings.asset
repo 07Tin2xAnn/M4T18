@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
+<<<<<<< HEAD
   productGUID: 45c88b2a79af7e84b9cf926158488209
+=======
+  productGUID: aae07fe50254b3b4aa3bdd02e82a8be3
+>>>>>>> effad7012390b8d9d335e5f72b838a278f696446
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -12,7 +16,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
   productName: M05T18
+=======
+  productName: M4T18
+>>>>>>> effad7012390b8d9d335e5f72b838a278f696446
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -564,14 +572,22 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< HEAD
   metroPackageName: M05T18
+=======
+  metroPackageName: M4T18
+>>>>>>> effad7012390b8d9d335e5f72b838a278f696446
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
+<<<<<<< HEAD
   metroApplicationDescription: M05T18
+=======
+  metroApplicationDescription: M4T18
+>>>>>>> effad7012390b8d9d335e5f72b838a278f696446
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -636,12 +652,22 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
+<<<<<<< HEAD
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 
   projectName: 
   organizationId: 
+=======
+  cloudServicesEnabled:
+    UNet: 1
+  facebookSdkVersion: 7.9.4
+  apiCompatibilityLevel: 2
+  cloudProjectId: 21a789ec-80bd-44ea-98b7-316c18522eb2
+  projectName: M4T18
+  organizationId: chrisxtine
+>>>>>>> effad7012390b8d9d335e5f72b838a278f696446
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
